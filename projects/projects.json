@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Tourism",
+      "desc": "Our platform is your gateway to a world of breathtaking landscapes, and unforgettable experiences. We are here to guide, and connect you with the wonders of the globe.",
+      "image": "image",
+      "category": "Web",
+      "links": {
+        "view": "https://github.com/Chiranjeeb2001/Tourism-web/tree/master",
+        "code": "https://github.com/Chiranjeeb2001/Tourism-web/tree/master"
+      }
+    },
+    {
+      "name": "Blurry-Image-Loading-Page",
+      "desc": "A Blurry-Image-Loading Page is a web design concept that enhances user experience by presenting images in a visually appealing and progressive manner.",
+      "image": "image",
+      "category": "web",
+      "links": {
+        "view": "https://github.com/Chiranjeeb2001/Blurry-Image-Loading",
+        "code": "https://github.com/Chiranjeeb2001/Blurry-Image-Loading"
+      }
+    },
+    {
+      "name": "Restaurants Website",
+      "desc": "Comming Soon.",
+      "image": "Res",
+      "category": "Web",
+      "links": {
+        "view": "xfmnxmx",
+        "code": "gfnf"
+      }
+    }
+  ]
+  

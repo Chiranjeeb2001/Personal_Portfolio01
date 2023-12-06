@@ -15,7 +15,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/chiranjeebmohanta/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Jigar Sable
+© 2023 Chiranjeeb Mohanta
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
