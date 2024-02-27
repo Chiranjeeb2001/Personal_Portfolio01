@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://www.linkedin.com/in/chiranjeebmohanta/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://admirable-blancmange-3e5fd1.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 
